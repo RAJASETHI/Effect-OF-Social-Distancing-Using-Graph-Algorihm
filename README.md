@@ -14,6 +14,7 @@
       rate. <br />• Displays the number of people infected and its
       standard deviations on the nth day of start of the pandemic in a location.
     </p>
+    <img src="https://image.shutterstock.com/image-vector/spread-coronavirus-infection-infographics-covid19-260nw-1677773581.jpg" alt="covid-image">
     <br>
     <h2>Algorithm Used:</h2>
     <p>Modified Floyd Warshall for finding the Transitive Closure.</p>
