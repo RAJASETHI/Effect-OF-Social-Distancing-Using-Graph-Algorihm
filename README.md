@@ -17,7 +17,16 @@
     <img src="https://image.shutterstock.com/image-vector/spread-coronavirus-infection-infographics-covid19-260nw-1677773581.jpg" alt="covid-image">
     <br>
     <h2>Algorithm Used:</h2>
+    <img src="Results/rr1.jpg">
     <p>Modified Floyd Warshall for finding the Transitive Closure.</p>
+    <br>
+    <h2>Result:</h2>
+    <p>
+    <img src="Results/rs1.jpg">
+      <img src="Results/rs2.jpg">
+      <img src="Results/rs3.jpg">
+      <img src="Results/rs4.jpg">
+    </p>
     <br>
     <h2>Conclusion:</h2>
     <p><ul>
